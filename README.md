@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bipinmahat1
+- 😘 Hi, I’m @Bipinmahat1
 - 👀 I’m interested in learning programming.
 - 🌱 I’m currently studying computer engineering techology in Seneca college.
 <!---
