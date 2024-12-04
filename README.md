@@ -23,12 +23,9 @@
 
 ---
 
-## 🌟 Projects
-- [Photographer Website](https://github.com/Bipinmahat1/photographer.website): A beginner-friendly site for photographers.
-- [Driving School Website](https://github.com/Bipinmahat1/DrivingSchool): A simple website for driving schools.
-
----
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bipinmahat-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://bipinmahat.com)
+
+
