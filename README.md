@@ -25,7 +25,7 @@
 
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bipinmahat-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bipinmahat-blue?logo=linkedin)](https://linkedin.com/in/bipinmahat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://bipinmahat.com)
 
 
