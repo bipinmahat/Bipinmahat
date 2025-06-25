@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bipin Mahat
 - 🌱 Passionate about programming and technology.
-- 🎓 Studying Computer Engineering Technology at Seneca College.
+- 🎓 Graduated Computer Engineering Technology at Seneca College.
 - 🚀 Open to collaboration on interesting projects.
 
 ---
