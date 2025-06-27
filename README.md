@@ -23,7 +23,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bipinmahat1&theme=dracula&margin-w=15)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bipinmahat1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
