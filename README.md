@@ -17,14 +17,14 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bipinmahat1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipinmahat1&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bipinmahat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipinmahat&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=bipinmahat1&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=bipinmahat&theme=radical)
 
 ---
 
